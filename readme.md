@@ -21,13 +21,13 @@ Download the last version directly to the binaries folder
 For Linux (linux):
 
 ```bash
-curl -L https://github.com/danny270793/GitManager/releases/download/${LAST_VERSION}/PasswordsGenerator_${LAST_VERSION}_linux_amd64.tar.gz -o ./passwordssgenerator.tar.gz
+curl -L https://github.com/danny270793/PasswordsGenerator/releases/download/${LAST_VERSION}/PasswordsGenerator_${LAST_VERSION}_linux_amd64.tar.gz -o ./passwordssgenerator.tar.gz
 ```
 
 For MacOS (darwin):
 
 ```bash
-curl -L https://github.com/danny270793/GitManager/releases/download/${LAST_VERSION}/PasswordsGenerator_${LAST_VERSION}_darwin_amd64.tar.gz -o ./passwordssgenerator.tar.gz
+curl -L https://github.com/danny270793/PasswordsGenerator/releases/download/${LAST_VERSION}/PasswordsGenerator_${LAST_VERSION}_darwin_amd64.tar.gz -o ./passwordssgenerator.tar.gz
 ```
 
 Untar the downloaded file
